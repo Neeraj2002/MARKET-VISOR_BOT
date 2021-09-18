@@ -7,11 +7,11 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # VARIABLES
-consumer_key = 'KeraZURjJJWGmVHU7iDUh7Lyt'
-consumer_secret = 'fCnF0sS9YI3GqZpzK4KvMjd9qiFLiDw21m7LqVuvSWlqxYrv7Z'
+consumer_key = ''
+consumer_secret = ''
 
-access_token = '1434826268378157056-x7c35ain34Oaez0xNey3GTIjpnirdN'
-access_token_secret = 'SwWZ2zZtRwxLn3NX2GIiF3VqulXao6ziFypANGXmOXKPN'
+access_token = ''
+access_token_secret = ''
 
 FILE_NAME = 'SmallProjects/MARKETVISOR BOT/last_seen.txt'
 RETWEET_LIST = 'SmallProjects/MARKETVISOR BOT/retweet_list.txt'
