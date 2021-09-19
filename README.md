@@ -19,9 +19,11 @@
 #### 6. Tells you the everyday markets opening and closing price of NSE and BSE
 #### 7. Every Sunday recommends a new book on investment and trading, also if you dont have access to the book just DM the bot and it will reply where to find the book! 💪💪
 <br />
+
 ## CHALLENGES I RAN INTO
 ### Using the Tweepy API initially was a bit tricky, but eventually got a grip on it, and getting Real-Time opening-closing news of the market was a difficult task.
 <br />
+
 ## LINKS
 ### https://adoring-cray-e85283.netlify.app/
 ### https://twitter.com/TheMarketVisor
