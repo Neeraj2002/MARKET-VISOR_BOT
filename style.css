@@ -9,7 +9,7 @@ header {
 }
 
 .nav{
-    background-color: #000000;
+    background-color:silver;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,7 +20,7 @@ header {
 .text{
     font-size: large;
     padding-left: 10px;
-    color: white;
+    color: black;
 }
 
 .logo{
